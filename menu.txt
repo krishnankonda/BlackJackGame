@@ -1,0 +1,28 @@
+Welcome to BlackJack!
+Please select an option below.
+1) Rules
+2) Play
+The rules of blackjack are simple.
+In this game, you will be playing against one opponent, the dealer.
+Both you and the dealer will be dealt 2 cards.
+Both of your cards will be face up, while the dealer will only have one card face up.
+The goal of this game is to have the total value of your cards to be higher 
+than the dealer's cards while keeping it under 21.
+If you go over 21, then you "bust" and lose your bet.
+If the total value of the dealer's cards are higher than yours, then you also lose your bet.
+If the value of both your cards and the dealer's is equal, then it is a tie and your bet will be returned.
+The face value of the card is also the card's value. (E.g. 6 is 6, 2 is 2, 10 is 10 etc.)
+However, Jack/Queen/King are royalty and they have the value of 10.
+Aces can take on the value of either 1 or 11.
+Aces will be 11 as long as your total value isn't over 21. If above 21, the Ace will change its value to 1.
+If you achieve blackjack, 21 pts, with any combination, you will be paid 2.5 times your bet.
+If you win normally (have a higher value [under 21] than the dealer) then you will be paid 2 times your bet.
+If you are not satisfied with your original hand's total value (the 2 cards you had in the beginning), 
+then you can take an extra card by selecting "hit".
+You get one extra card each time you hit. 
+However, repetitively hitting has the risk of your hand's value going over 21 and busting.
+The dealer's rules for hitting is that if his hand is less than or equal to 16 or he has a "soft 17" (an ace and a 6), 
+then he must take a hit.
+If the dealer's hand is 17 or higher without an ace, then the dealer must stand.
+Lastly, if you are satisfied with your hand's value, then you can stand and end your turn.
+Good Luck in your gambling.
